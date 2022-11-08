@@ -60,7 +60,7 @@ const config = {
         title: 'Docs by Cyber Alliance',
         logo: {
           alt: 'Docs by Cyber Alliance Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
