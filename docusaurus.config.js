@@ -110,8 +110,8 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'Links',
-                href: 'https://links.cyberalliance.in',
+                label: 'Link',
+                href: 'https://link.cyberalliance.in',
               },
             ],
           },
