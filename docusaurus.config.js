@@ -87,18 +87,9 @@ const config = {
                 label: 'Guides',
                 to: '/docs/intro',
               },
-            ],
-          },
-          {
-            title: 'Important Links',
-            items: [
               {
-                label: 'Cyber Alliance Site',
-                href: 'https://cyberalliance.in',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/RtE46ScHxw',
+                label: 'Blog',
+                to: '/blog',
               },
             ],
           },
@@ -106,8 +97,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Cyber Alliance Site',
+                href: 'https://cyberalliance.in',
               },
               {
                 label: 'Link',
