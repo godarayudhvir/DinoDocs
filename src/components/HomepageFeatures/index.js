@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        No matter where you are stuck we are there for you, just shoot us your queries
+        No matter where you are stuck we are there for you, just shoot us your queries at <a href="info@cyberalliance.in" ></a>
       </>
     ),
   },
