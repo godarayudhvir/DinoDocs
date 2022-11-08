@@ -106,6 +106,19 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Reach out',
+            items: [
+              {
+                label: 'Call us',
+                href: 'tel:+918766230998',
+              },
+              {
+                label: 'Mail us',
+                href: 'mailto:info@cyberalliance.in',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Cyber Alliance, India. Built with Docusaurus.`,
       },
