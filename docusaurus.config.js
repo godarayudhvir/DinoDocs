@@ -119,6 +119,20 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Getting Started',
+            items: [
+              {
+                label: 'Hello Docker',
+                href: '/docs/Docker/01. docker.md',
+              },
+              {
+                label: 'File Browser',
+                href: '/docs/Docker/02. filebrowser.md',
+              },
+            ],
+          },
+
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Cyber Alliance, India. Built with Docusaurus.`,
       },
